@@ -1,6 +1,6 @@
 ### Hey there 👋
 
-I'm Caleb, a follower of Jesus and USC freshman studying Computer Science + Applied Mathematics.
+I'm Caleb, a follower of Jesus and USC freshman.
 
 - 🔭 Currently working at [AINA Tech](https://www.ainatech.ai/) and diving deep into machine learning
 - 💡 Open to collaborating on ML projects and tools that help people flourish
