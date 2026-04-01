@@ -2,23 +2,12 @@
 
 I'm Caleb, a follower of Jesus and CS student at USC.
 
-- 🔭 Currently building [Amber](https://calebsideas.com) and working at [AINA Tech](https://www.ainatech.ai/), [Personage](https://personage.com), [Blue Modern Advisory](https://bluemodernadvisory.com/), [Beamlink](https://beamlink.io/), and [Pallas Care](https://www.pallas.care/)
+- 🔭 Currently building [Amber](https://calebsideas.com) and working at [AINA Tech](https://www.ainatech.ai/), [Blue Modern Advisory](https://bluemodernadvisory.com/), [Beamlink](https://beamlink.io/), and [Pallas Care](https://www.pallas.care/)
 - 💡 Open to collaborating on ML projects and tools that help people flourish
 - 😁 Outside of code: vinyl records, board games, hiking, snowboarding, beginning to learn guitar, and volunteering
 - 📫 Reach me: [calebnew@usc.edu](mailto:calebnew@usc.edu)
 
 Check out my projects below to see what I've been building!
-
-**Things I've built:**
-
-| Project | What it does |
-|---|---|
-| [ModelLab](https://modellab.studio) | ML experiment tracking with dataset versioning and reproducibility exports |
-| [Food Vision](https://foodvis.in) | 97.2% accurate food classifier using EfficientNetB2, 94ms GPU inference |
-| [16 Tech Personalities](https://16techpersonalities.com) | 40-question dev assessment: 16 personality types mapped to 42 career paths |
-| [Marrow](https://marrow.love) | Recruiting OS for student clubs, replacing Google Forms and spreadsheets |
-| [USC Cook Scale](https://usc-cook-scale.vercel.app) | AI schedule difficulty analyzer for USC students, powered by Claude |
-| [NBA Predictions](https://nba-performance-prediction.vercel.app) | 69.6% accurate game outcome prediction across 2,788 real NBA games |
 
 **Stack:**
 
