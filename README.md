@@ -8,3 +8,5 @@ I'm Caleb, a follower of Jesus and USC freshman.
 - 📫 Reach me: [calebnew@usc.edu](mailto:calebnew@usc.edu)
 
 Check out my projects below to see what I've been building!
+
+All glory to God! ✝️❤️
