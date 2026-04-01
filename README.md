@@ -1,27 +1,24 @@
-### Hey there
+### Hey there 👋
 
 I'm Caleb, a follower of Jesus and CS student at USC.
 
-Right now I'm building **Amber**: a health and relationships platform that unifies your complete medical record with your relationship graph, giving healthcare the social context it has always lacked.
+- 🔭 Currently building [Amber](https://calebsideas.com) and working at [AINA Tech](https://www.ainatech.ai/), [Personage](https://personage.com), [Blue Modern Advisory](https://bluemodernadvisory.com/), [Beamlink](https://beamlink.io/), and [Pallas Care](https://www.pallas.care/)
+- 💡 Open to collaborating on ML projects and tools that help people flourish
+- 😁 Outside of code: vinyl records, board games, hiking, snowboarding, beginning to learn guitar, and volunteering
+- 📫 Reach me: [calebnew@usc.edu](mailto:calebnew@usc.edu)
 
-**Where I work:**
-
-- [AINA Tech](https://www.ainatech.ai/): 4D Gaussian Splatting, COLMAP pipeline engineering, CUDA optimization
-- [Personage](https://personage.com): AI clinical supplement recommendation engine (Claude Sonnet 4.6)
-- [Blue Modern Advisory](https://bluemodernadvisory.com/): AI and data infrastructure for Amber
-- [Beamlink](https://beamlink.io/): IoT and API security consulting (OWASP API Top 10)
-- [Pallas Care](https://www.pallas.care/): Analytics platform for a $2.85M ARR senior care agency
+Check out my projects below to see what I've been building!
 
 **Things I've built:**
 
-| Project                                                          | What it does                                                               |
-| ---------------------------------------------------------------- | -------------------------------------------------------------------------- |
-| [ModelLab](https://modellab.studio)                              | ML experiment tracking with dataset versioning and reproducibility exports |
-| [Food Vision](https://foodvis.in)                                | 97.2% accurate food classifier using EfficientNetB2, 94ms GPU inference    |
-| [16 Tech Personalities](https://16techpersonalities.com)         | 40-question dev assessment: 16 personality types mapped to 42 career paths |
-| [Marrow](https://marrow.love)                                    | Recruiting OS for student clubs, replacing Google Forms and spreadsheets   |
-| [USC Cook Scale](https://usc-cook-scale.vercel.app)              | AI schedule difficulty analyzer for USC students, powered by Claude        |
-| [NBA Predictions](https://nba-performance-prediction.vercel.app) | 69.6% accurate game outcome prediction across 2,788 real NBA games         |
+| Project | What it does |
+|---|---|
+| [ModelLab](https://modellab.studio) | ML experiment tracking with dataset versioning and reproducibility exports |
+| [Food Vision](https://foodvis.in) | 97.2% accurate food classifier using EfficientNetB2, 94ms GPU inference |
+| [16 Tech Personalities](https://16techpersonalities.com) | 40-question dev assessment: 16 personality types mapped to 42 career paths |
+| [Marrow](https://marrow.love) | Recruiting OS for student clubs, replacing Google Forms and spreadsheets |
+| [USC Cook Scale](https://usc-cook-scale.vercel.app) | AI schedule difficulty analyzer for USC students, powered by Claude |
+| [NBA Predictions](https://nba-performance-prediction.vercel.app) | 69.6% accurate game outcome prediction across 2,788 real NBA games |
 
 **Stack:**
 
@@ -42,8 +39,6 @@ Right now I'm building **Amber**: a health and relationships platform that unifi
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=calebnewtonusc&layout=compact&theme=dark&hide_border=true&langs_count=8" height="165" />
 </p>
 
----
-
-Portfolio: [calebnewton.me](https://calebnewton.me) · Ideas: [calebsideas.com](https://calebsideas.com) · Email: [calebnew@usc.edu](mailto:calebnew@usc.edu)
+Portfolio: [calebnewton.me](https://calebnewton.me) · Ideas: [calebsideas.com](https://calebsideas.com)
 
 All glory to God! ✝️❤️
