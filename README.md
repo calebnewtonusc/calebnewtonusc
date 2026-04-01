@@ -24,7 +24,7 @@ Check out my projects below to see what I've been building!
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=calebnewtonusc&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" height="165" />
+  <img src="https://streak-stats.demolab.com/?user=calebnewtonusc&theme=dark&hide_border=true" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=calebnewtonusc&layout=compact&theme=dark&hide_border=true&langs_count=8" height="165" />
 </p>
 
