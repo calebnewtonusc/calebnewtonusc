@@ -25,7 +25,7 @@ Check out my projects below to see what I've been building!
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=calebnewtonusc&theme=dark&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=calebnewtonusc&layout=compact&theme=dark&hide_border=true&langs_count=8" height="165" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=calebnewtonusc&theme=github_dark" height="165" />
 </p>
 
 Portfolio: [calebnewton.me](https://calebnewton.me) · Ideas: [calebsideas.com](https://calebsideas.com)
