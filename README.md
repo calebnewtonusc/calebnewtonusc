@@ -1,6 +1,6 @@
 ### Hey there 👋
 
-I'm Caleb, a follower of Jesus and CS student at USC.
+I'm Caleb, a follower of Jesus and innovation student at USC.
 
 - 🔭 Currently building [Amber](https://calebsideas.com) and working at [AINA Tech](https://www.ainatech.ai/), [Blue Modern Advisory](https://bluemodernadvisory.com/), [Beamlink](https://beamlink.io/), and [Pallas Care](https://www.pallas.care/)
 - 💡 Open to collaborating on ML projects and tools that help people flourish
