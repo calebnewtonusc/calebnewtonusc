@@ -2,7 +2,8 @@
 
 I'm Caleb, a follower of Jesus and innovation student at USC.
 
-- 🔭 Currently building [Amber](https://calebsideas.com) and working at [AINA Tech](https://www.ainatech.ai/), [Blue Modern Advisory](https://bluemodernadvisory.com/), [Beamlink](https://beamlink.io/), [Pallas Care](https://www.pallas.care/), and [Cosasco](https://cosasco.vercel.app)
+- 🔭 Currently building [Amber](https://calebsideas.com), Tizzy, Silo, and [many more ideas](https://calebsideas.com)
+- 💼 Currently working at [AINA Tech](https://www.ainatech.ai/), [Blue Modern Advisory](https://bluemodernadvisory.com/), [Beamlink](https://beamlink.io/), [Pallas Care](https://www.pallas.care/), and [Cosasco](https://cosasco.vercel.app)
 - 💡 Open to collaborating on ML projects and tools that help people flourish
 - 😁 Outside of code: vinyl records, board games, hiking, snowboarding, beginning to learn guitar, and volunteering
 - 📫 Reach me: [calebnew@usc.edu](mailto:calebnew@usc.edu)
