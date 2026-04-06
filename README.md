@@ -4,7 +4,7 @@ I'm Caleb, a follower of Jesus and innovation student at USC.
 
 - 🔭 Currently building [Amber](https://calebsideas.com), [Tizzy](https://tizzy-psi.vercel.app), [Silo](https://silo-swart.vercel.app), and [many more ideas](https://calebsideas.com)
 - 💼 Currently working at [AINA Tech](https://www.ainatech.ai/), [Blue Modern Advisory](https://bluemodernadvisory.com/), [Beamlink](https://beamlink.io/), [Pallas Care](https://www.pallas.care/), and [Cosasco](https://cosasco.vercel.app)
-- 🎙️ **President, [USC Trojan Technology Solutions](https://usctts.com)** — Founded & scaled a student org combining venture building, pro bono consulting, and technical education; grew membership to 100+ across engineering, design, and business through a structured recruiting and self-selection model. Delivered 5 pro bono technology engagements for USC departments and LA startups while building a 20+ person advisory network and launching a speaker series that expanded student mentorship and access to industry operators.
+- 🎙️ **President, [USC Trojan Technology Solutions](https://usctts.com)** — 100+ members, 5 pro bono engagements, 20+ person advisory network
 - 💡 Open to building at the intersection of health, AI, and human connection
 - 😁 Outside of code: vinyl records, board games, hiking, skateboarding, snowboarding, beginning to learn guitar, making a Movie and Musical, and volunteering
 - 📫 Reach me: [calebnew@usc.edu](mailto:calebnew@usc.edu)
